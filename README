@@ -1,0 +1,5 @@
+This project contains a single file 'bst.py' in which simple construction of binary search tree is implemented using python.
+
+The output is showing 'in-order' and 'pre-order' traversals of binary search tree.
+
+You can delete the values from the tree after creating the tree;
